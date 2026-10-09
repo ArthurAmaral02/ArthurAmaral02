@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**ArthurAmaral02/ArthurAmaral02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science student, tech enthusiast,
+  and aspiring researcher.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring+Computer+Science;Learning+Java%2C+Python+%26+C;Aspiring+Researcher&center=true&width=500&height=45" alt="Typing introduction" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Science student
+- 🔬 Interested in scientific research and technology
+- 💻 Learning Java, Python, and C
+- 🌱 Always exploring new ideas and technologies
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode" alt="Java, Python, C, Git, GitHub and VS Code" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ✨
+</p>
